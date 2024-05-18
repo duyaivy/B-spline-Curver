@@ -3,7 +3,7 @@
 void readFile(int *p, int *n, int *d, float a[100][100])
 {
     FILE *file;
-    file = fopen("input2.txt", "r");
+    file = fopen("inputccc.txt", "r");
 
     fscanf(file, "%d", p);
     fscanf(file, "%d", d);
